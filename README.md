@@ -4,7 +4,7 @@
 
 This bot serves multiple purposes including Coin Flips, a Random Number Generator, and a 1v1 Battle system! Its intended use was for CS:GO case openings within my friend group.
 
-![PhillipBot Logo](https://i.imgur.com/Eice9ou.png)
+<a href="url"><img src="https://i.imgur.com/Eice9ou.png" align="center" height="300" width="300" ></a>  
 
 ## Usage
 
